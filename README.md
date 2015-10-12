@@ -2,6 +2,7 @@
 QuartzComposer's patches created by students during GOMA's Workshop.
 
 "Patches Workshop" folder contains the original patches created by the students
+
 "Patches Present" folder contains the same patches but with some modifications to be integrated and controled live in VDMX.
 (mostly input splitters to the exterior and erasing Audio Analyse patche form Quartz and use Audio Analyse from VDMX)
 
