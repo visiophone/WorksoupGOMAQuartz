@@ -6,4 +6,5 @@ QuartzComposer's patches created by students during GOMA's Workshop.
 (mostly input splitters to the exterior and erasing Audio Analyse patche form Quartz and use Audio Analyse from VDMX)
 
 Photos from the workshops: https://www.facebook.com/media/set/?set=a.516131065218872.1073741831.499350966896882&type=3
+
 GOMA event: https://www.facebook.com/goma.pt
